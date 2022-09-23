@@ -1,4 +1,4 @@
-# vue-lesson-4-notes
+# notes
 
 ## Project setup
 ```
